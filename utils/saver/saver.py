@@ -32,17 +32,13 @@ class Saver():
         save_mode = spider_config.SAVE_MODE
         self.saver_list = []
         # 构造每个存储方法的存储器
-        if 'csv' in save_mode:
+        if 'csv' == save_mode:
             from utils.saver.csv_saver import CSV
             print('暂时不支持csv，如果您只选择了csv将不会进行存储（原因详见README）')
             # csv_saver = CSV()
             # self.saver_list.append(csv_saver)
             pass
-        if 'mongo' in save_mode:
-            from utils.saver.mongo_saver import MongoSaver
-            mongo_saver = MongoSaver()
-            self.saver_list.append(mongo_saver)
-        if 'mongodb' in save_mode:
+        if 'mongo' in save_mode or 'mongodb' in save_mode:
             from utils.saver.mongo_saver import MongoSaver
             mongo_saver = MongoSaver()
             self.saver_list.append(mongo_saver)

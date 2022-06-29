@@ -115,10 +115,10 @@ def get_basic_hidden_info(shop_id):
                                                                                                         'lxml').text if \
             msg['phoneNo2'] is not None else ''
         return {
-            '店铺id': shop_id,
-            '店铺名': shop_name,
-            '店铺地址': shop_address,
-            '店铺电话': shop_number
+            'shop_id': shop_id,
+            'shop_name': shop_name,
+            'shop_address': shop_address,
+            'shop_phone': shop_number
         }
     else:
         logger.warning('json响应码异常，尝试更改提pr，或者提issue')
@@ -161,11 +161,11 @@ def get_review_and_star(shop_id):
         for i, score in enumerate(score_list):
             scores[score_title_list[i]] = score_list[i]
         return {
-            '店铺id': shop_id,
-            '店铺总分': shop_base_score,
-            '店铺均分': scores,
-            '人均价格': avg_price,
-            '评论总数': review_count
+            'shop_id': shop_id,
+            'star_point': shop_base_score,
+            'comment_list': scores,
+            'mean_price': avg_price,
+            'review_number': review_count
         }
     else:
         logger.warning('json响应码异常，尝试更改提pr，或者提issue')
@@ -184,7 +184,7 @@ def get_shop_tabs(shop_id):
 
 def get_promo_info(shop_id):
     """
-    优惠券信息
+    coupon_info
     @param shop_id:
     @return:
     """
@@ -235,7 +235,7 @@ def get_basic_review(shop_id):
         mid_review_count = r_json['reviewCountCommon']
         bad_review_count = r_json['reviewCountBad']
 
-        # 获取精选评论详情信息
+        # 获取all_review详情信息
         reviews = []
         for review in r_json['reviewAllDOList']:
             # 基础评论信息
@@ -247,7 +247,7 @@ def get_basic_review(shop_id):
             review_reply_count = review_info['reviewData']['replyCount']
             review_view_count = review_info['reviewData']['viewCount']
 
-            # 喜欢的菜
+            # review_like_dish
             if review_info['reviewData']['extInfoList'] is not None:
                 review_like_dish = review_info['reviewData']['extInfoList'][0]['values']
             else:
@@ -255,10 +255,10 @@ def get_basic_review(shop_id):
 
             review_avg_price = review_info['reviewData']['avgPrice']
             review_publish_time = review_info['addTimeVO']
-            # 商家回复
+            # review_merchant_reply
             review_merchant_reply = review_info['followNoteString']
 
-            # 用户评论图片
+            # 用户review_pic_list
             if review['picList'] is not None:
                 review_pic_list = []
                 for each_pic in review['picList']:
@@ -271,37 +271,37 @@ def get_basic_review(shop_id):
             user_id = review['user']['userId']
 
             each_review = {
-                '店铺id': shop_id,
+                'shop_id': shop_id,
                 '评论id': review_id,
-                '用户id': user_id,
-                '用户名': review_username,
-                '用户总分': review_star,
-                '用户打分': {},
-                '评论内容': review_body,
+                'user_id': user_id,
+                'review_username': review_username,
+                'review_total_score': review_star,
+                'review_score_detail': {},
+                'review_text': review_body,
                 '点赞个数': review_vote_count,
                 '回复个数': review_reply_count,
                 '浏览次数': review_view_count,
-                '人均价格': review_avg_price,
-                '喜欢的菜': review_like_dish,
-                '发布时间': review_publish_time,
-                '商家回复': review_merchant_reply,
-                '评论图片': review_pic_list,
+                'mean_price': review_avg_price,
+                'review_like_dish': review_like_dish,
+                'review_publish_time': review_publish_time,
+                'review_merchant_reply': review_merchant_reply,
+                'review_pic_list': review_pic_list,
             }
             reviews.append(each_review)
 
-        # 推荐菜
+        # recommend
         dish_tag_list = r_json['dishTagStrList']
 
         return {
-            '店铺id': shop_id,
-            '评论摘要': summaries,
-            '评论总数': all_review_count,
-            '好评个数': good_review_count,
-            '中评个数': mid_review_count,
-            '差评个数': bad_review_count,
-            '带图评论个数': review_with_pic_count,
-            '精选评论': reviews,
-            '推荐菜': dish_tag_list,
+            'shop_id': shop_id,
+            'summaries': summaries,
+            'review_number': all_review_count,
+            'good_review_count': good_review_count,
+            'mid_review_count': mid_review_count,
+            'bad_review_count': bad_review_count,
+            'review_with_pic_count': review_with_pic_count,
+            'all_review': reviews,
+            'recommend': dish_tag_list,
         }
     else:
         logger.warning('json响应码异常，尝试更改提pr，或者提issue')

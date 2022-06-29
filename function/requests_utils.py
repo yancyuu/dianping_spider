@@ -62,7 +62,7 @@ class RequestsUtils():
             self.proxy_pool = []
 
         try:
-            self.stop_times = self.parse_stop_time(requests_times)
+            all_review = self.parse_stop_time(requests_times)
         except:
             logger.error('配置文件requests_times解析错误，检查输入（必须英文标点）')
             sys.exit()
@@ -169,7 +169,9 @@ class RequestsUtils():
         """
         self.global_time += 1
         if self.global_time != 1:
-            for each_stop_time in self.stop_times:
+            for each_stop_time in all_review:
+                print('all_review')
+                print(all_review)
                 if self.global_time % int(each_stop_time[0]) == 0:
                     for i in tqdm(range(int(each_stop_time[1])), desc='全局等待'):
                         import random
@@ -191,6 +193,7 @@ class RequestsUtils():
                 print('处理验证码，按任意键回车后继续', r.url)
                 input()
             else:
+                print(r.url)
                 print('verify')
             return self.get_requests(url, request_type)
         else:
@@ -322,10 +325,9 @@ class RequestsUtils():
             proxies = self.key_proxy_utils()
             return proxies
         else:
-            # 增加本地ip代理池
-            proxies = self.normal_proxy_utils()
-            logger.warning('使用本地ip代理池')
-            return proxies
+            logger.warning('使用代理时，必须选择http提取或秘钥提取中的一个')
+            exit()
+        pass
 
     def http_proxy_utils(self, ip, port):
         """
@@ -365,28 +367,6 @@ class RequestsUtils():
         proxies = {
             "http": proxyMeta,
             "https": proxyMeta,
-        }
-        return proxies
-    
-    # 用自己本地的ip代理服务
-    def normal_proxy_utils(self):
-        """
-        专属http链接的代理格式
-        @param ip:
-        @param port:
-        @return:
-        """
-
-        proxyMeta = "http://%(host)s:%(port)s/get/?type=http" % {
-            "host": spider_config.PROXY_HOST,
-            "port": spider_config.PROXY_PORT,
-        }
-
-        res = requests.get(url=proxyMeta)
-        res = res.json()
-
-        proxies = {
-            "http": "http://{}".format(res.get("proxy")),
         }
         return proxies
 

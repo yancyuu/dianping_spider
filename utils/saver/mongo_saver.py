@@ -32,7 +32,7 @@ class MongoSaver():
         try:
             import pymongo
             client = pymongo.MongoClient(mongo_url)
-            self.database = client['dianping']
+            self.database = client['public_comment']
         except:
             logger.warning(
                 u'系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序')
@@ -62,8 +62,9 @@ class MongoSaver():
         :return:
         """
         col = self.database['info']
-        col.delete_many({'店铺id': data['店铺id']})
-        col.insert(data)
+        print(data)
+        col.delete_many({'shop_id': data['shop_id']})
+        col.insert_one(data)
 
 
     def save_detail_list(self, data):
@@ -73,8 +74,8 @@ class MongoSaver():
         :return:
         """
         col = self.database['info_detail']
-        col.delete_many({'店铺id': data['店铺id']})
-        col.insert(data)
+        col.delete_many({'shop_id': data['shop_id']})
+        col.insert_one(data)
 
 
     def save_review_list(self, data):
@@ -84,6 +85,6 @@ class MongoSaver():
         :return:
         """
         col = self.database['review']
-        col.delete_many({'店铺id': data['店铺id']})
-        col.insert(data)
+        col.delete_many({'shop_id': data['shop_id']})
+        col.insert_one(data)
 

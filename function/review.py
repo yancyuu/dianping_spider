@@ -36,14 +36,14 @@ class Review():
         if self.is_ban and spider_config.USE_COOKIE_POOL is False:
             logger.warning('评论页请求被ban，程序继续运行')
             return_data = {
-                '店铺id': shop_id,
-                '评论摘要': 'ban',
-                '评论总数': 'ban',
-                '好评个数': 'ban',
-                '中评个数': 'ban',
-                '差评个数': 'ban',
-                '带图评论个数': 'ban',
-                '精选评论': 'ban',
+                'shop_id': shop_id,
+                'summaries': 'ban', #摘要
+                'review_count': 'ban',# 评论数量
+                'good_review_count': 'ban', 
+                'mid_review_count': 'ban',
+                'bad_review_count': 'ban',
+                'review_with_pic_count': 'ban',
+                'all_review': 'ban', #all_review量
             }
             return return_data
         all_pages = -1
@@ -180,30 +180,30 @@ class Review():
                     review_merchant_reply = ''
 
                 each_review = {
-                    '店铺id': shop_id,
-                    '评论id': review_id,
-                    '用户id': user_id,
-                    '用户名': review_username,
-                    '用户总分': review_total_score,
-                    '用户打分': review_score_detail,
-                    '评论内容': review_text,
-                    '人均价格': review_avg_price,
-                    '喜欢的菜': review_like_dish,
-                    '发布时间': review_publish_time,
-                    '商家回复': review_merchant_reply,
-                    '评论图片': review_pic_list,
+                    'shop_id': shop_id,
+                    'review_id': review_id, #评论id
+                    'user_id': user_id,
+                    'review_username': review_username,
+                    'review_total_score': review_total_score,
+                    'review_score_detail': review_score_detail,
+                    'review_text': review_text,
+                    'mean_price': review_avg_price,
+                    'review_like_dish': review_like_dish,
+                    'review_publish_time': review_publish_time,
+                    'review_merchant_reply': review_merchant_reply,
+                    'review_pic_list': review_pic_list,
                 }
                 all_review.append(each_review)
             cur_pages += 1
             all_pages -= 1
         return_data = {
-            '店铺id': shop_id,
-            '评论摘要': summaries,
-            '评论总数': all_review_count,
-            '好评个数': good_review_count,
-            '中评个数': mid_review_count,
-            '差评个数': bad_review_count,
-            '带图评论个数': review_with_pic_count,
-            '精选评论': all_review,
+            'shop_id': shop_id,
+            'summaries': summaries,
+            'review_number': all_review_count,
+            'good_review_count': good_review_count,
+            'mid_review_count': mid_review_count,
+            'bad_review_count': bad_review_count,
+            'review_with_pic_count': review_with_pic_count,
+            'all_review': all_review,
         }
         return return_data

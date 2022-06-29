@@ -1,0 +1,548 @@
+2022-06-28 17:25:37,731 - 24638-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 17:25:37,870 - 24638-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 17:25:38,013 - 24638-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 17:25:45,787 - 24638-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 17:25:47,104 - 24638-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 17:26:13,624 - 24672-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 17:26:13,756 - 24672-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 17:26:13,887 - 24672-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 17:27:41,773 - 24672-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 17:27:42,522 - 24672-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 17:59:45,832 - 25779-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 17:59:45,924 - 25779-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 17:59:46,095 - 25779-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 18:00:06,270 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:00:06,387 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:00:06,558 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-28 18:16:11,236 - 25884-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:16:11,295 - 25884-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:16:11,412 - 25884-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-28 18:17:32,715 - 25917-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:17:32,772 - 25917-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:17:32,880 - 25917-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-28 18:17:54,018 - 25933-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:17:54,067 - 25933-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:17:54,166 - 25933-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-28 18:22:28,888 - 26060-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:22:28,945 - 26060-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:22:29,056 - 26060-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-28 18:24:02,512 - 26068-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:24:02,568 - 26068-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:24:02,680 - 26068-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-28 18:25:17,461 - 26127-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-28 18:25:17,518 - 26127-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-28 18:25:17,632 - 26127-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-29 14:07:19,316 - 28847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 14:07:19,603 - 28847-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-29 14:14:58,562 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:32,214 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:35,137 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:37,219 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:39,230 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:41,301 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:43,313 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:45,330 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:47,351 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:49,361 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:51,371 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:53,384 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:55,404 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:57,416 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:16:59,430 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:17:01,442 - 25790-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:36,167 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 14:20:36,518 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:39,191 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:41,201 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:43,218 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:45,231 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:47,239 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:49,249 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:51,260 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:53,276 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:55,288 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:57,306 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:20:59,321 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:21:01,330 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:21:03,339 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:21:05,346 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:38:04,965 - 29278-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 14:38:06,845 - 29278-MainThread - /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/fontTools/ttLib/tables/_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-06-29 14:38:07,812 - 29278-MainThread - /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/fontTools/ttLib/tables/_p_o_s_t.py[line:280] - WARNING: 2 extra bytes in post.stringData array
+2022-06-29 14:55:38,733 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:56:39,714 - 28966-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:56:54,702 - 29621-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 14:56:54,876 - 29621-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-29 14:57:24,452 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 14:57:24,726 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:58:08,675 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:58:21,547 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 14:59:31,694 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:00:29,105 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:00:55,759 - 29624-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:01:52,581 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:01:53,005 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:02:27,489 - 29698-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:02:27,724 - 29698-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 15:02:56,995 - 29721-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:02:57,224 - 29721-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 15:08:19,954 - 29867-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:08:32,685 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:35,435 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:37,504 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:39,517 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:41,532 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:43,545 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:45,557 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:47,567 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:49,584 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:51,599 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:53,617 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:55,631 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:57,657 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:08:59,676 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:09:01,689 - 29676-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:33:40,397 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:34:18,311 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:21,148 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:23,164 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:25,197 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:27,214 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:29,243 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:31,266 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:33,283 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:35,314 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:37,333 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:39,358 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:41,377 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:43,388 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:45,401 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:34:47,416 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:36:51,291 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:36:54,343 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:36:56,357 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:36:58,372 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:00,380 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:02,393 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:04,410 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:06,434 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:08,444 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:10,459 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:12,475 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:14,485 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:16,503 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:18,522 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:37:20,538 - 30188-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:49:23,173 - 30432-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:49:23,383 - 30432-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:49:30,660 - 30468-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:50:25,226 - 30432-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:50:33,359 - 30512-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:50:33,629 - 30512-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 15:52:03,498 - 30543-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:52:03,762 - 30543-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 15:52:50,245 - 30432-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:52:54,845 - 30583-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:52:54,897 - 30583-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 15:53:13,075 - 30588-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:53:13,156 - 30588-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 15:53:13,336 - 30588-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:55:03,254 - 30588-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 15:55:12,092 - 30610-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 15:55:12,146 - 30610-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 16:03:34,109 - 30706-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:03:34,198 - 30706-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 16:03:34,381 - 30706-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:03:45,738 - 30739-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:03:45,790 - 30739-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 16:03:45,880 - 30739-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-29 16:04:12,142 - 30706-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:05:19,279 - 30706-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:05:39,905 - 30706-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:09:25,451 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:09:25,557 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 16:09:25,741 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:10:02,386 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:20:26,458 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:20:28,586 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:20:29,398 - 30850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:24:23,463 - 30982-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:24:23,679 - 30982-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:24:52,360 - 30982-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:24:58,735 - 30982-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:25:37,860 - 30982-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:28:40,119 - 31117-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:28:40,312 - 31117-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:29:30,581 - 31147-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:29:30,810 - 31147-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:33:19,432 - 31176-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:33:19,699 - 31176-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:34:28,876 - 31231-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:34:29,127 - 31231-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:34:34,244 - 31231-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:35:22,527 - 31268-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:35:22,825 - 31268-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:36:35,713 - 31291-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:36:35,968 - 31291-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:37:37,088 - 31325-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:37:37,278 - 31325-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:39:43,164 - 31410-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:39:43,364 - 31410-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:39:46,091 - 31410-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:16,299 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:45:16,674 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:19,463 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:21,479 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:23,488 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:25,500 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:27,512 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:29,527 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:31,545 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:33,563 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:35,580 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:37,594 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:39,602 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:41,622 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:43,634 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:45:45,650 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:13,584 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:15,615 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:17,628 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:19,645 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:21,652 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:23,664 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:25,676 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:27,686 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:29,710 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:31,720 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:33,731 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:35,758 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:37,779 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:39,793 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:46:41,803 - 31514-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:33,634 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:48:33,850 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:35,885 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:37,900 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:39,912 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:41,926 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:43,940 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:45,974 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:47,987 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:50,008 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:52,017 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:54,035 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:56,049 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:48:58,064 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:49:00,079 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:49:02,091 - 31586-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 16:56:15,469 - 31775-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:58:52,403 - 31830-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:59:29,556 - 31846-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 16:59:29,723 - 31846-MainThread - command.py[line:49] - INFO: 爬取shop_id：k30YbaScPKFS0hfP详情
+2022-06-29 17:00:01,702 - 31850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:00:01,937 - 31850-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 17:02:05,414 - 31882-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:02:19,655 - 31885-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:21:01,575 - 32341-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:21:01,936 - 32341-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:79] - WARNING: 获取页数失败https://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 17:21:47,869 - 32362-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:21:48,226 - 32362-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - WARNING: 获取页数失败https://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 17:22:27,037 - 32377-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:22:27,350 - 32377-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - WARNING: 获取页数失败https://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 17:26:42,251 - 32517-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:26:42,590 - 32517-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:85] - WARNING: 获取页数失败https://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 17:27:27,755 - 32546-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:27:28,023 - 32546-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:85] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 17:27:53,744 - 32553-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:29:12,332 - 32602-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:29:13,222 - 32602-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 17:29:13,223 - 32602-MainThread - command.py[line:73] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 17:54:26,686 - 32851-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 17:54:27,518 - 32851-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 17:54:27,519 - 32851-MainThread - command.py[line:73] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:02:31,962 - 32851-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:03:44,351 - 32969-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:03:45,198 - 32969-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:03:45,198 - 32969-MainThread - command.py[line:73] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:04:48,573 - 32969-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:08:04,076 - 33076-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:08:04,933 - 33076-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:08:04,934 - 33076-MainThread - command.py[line:73] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:08:49,254 - 33076-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:09:12,191 - 33115-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:09:13,047 - 33115-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:09:13,048 - 33115-MainThread - command.py[line:73] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:11:15,819 - 33115-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:15:21,402 - 33230-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:15:22,206 - 33230-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:15:22,207 - 33230-MainThread - command.py[line:73] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:15:58,853 - 33230-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:20:47,414 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:20:47,470 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:55] - INFO: 使用cookie池
+2022-06-29 18:20:47,835 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:20:48,629 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:20:48,629 - 33413-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:20:50,784 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:20:57,652 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:21:00,340 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:21:03,111 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:21:08,545 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:252] - INFO: 所有cookie均已失效，替换（替换后等待一段时间会自动继续）或等待解封
+2022-06-29 18:22:08,550 - 33413-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:252] - INFO: 所有cookie均已失效，替换（替换后等待一段时间会自动继续）或等待解封
+2022-06-29 18:23:38,347 - 33494-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:23:38,535 - 33494-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:23:48,592 - 33494-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:23:48,593 - 33494-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:25:19,477 - 33532-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:25:19,706 - 33532-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:25:31,743 - 33532-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:25:31,744 - 33532-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:27:23,485 - 33612-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:27:23,658 - 33612-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:27:24,336 - 33612-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:27:24,337 - 33612-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:28:15,666 - 33637-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:28:15,815 - 33637-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:28:16,670 - 33637-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:28:16,670 - 33637-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:28:16,671 - 33637-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数50
+2022-06-29 18:28:16,758 - 33637-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:28:17,022 - 33637-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 18:28:51,742 - 33652-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:28:51,919 - 33652-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:28:52,013 - 33652-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:28:52,013 - 33652-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:28:52,014 - 33652-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数1
+2022-06-29 18:28:52,090 - 33652-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:29:36,844 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:29:36,998 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:29:37,902 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:29:37,902 - 33679-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:29:37,903 - 33679-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数50
+2022-06-29 18:29:37,934 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:29:42,331 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:29:49,087 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:29:52,539 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:29:54,905 - 33679-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:31:08,841 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:31:08,987 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:31:09,074 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: []
+2022-06-29 18:31:09,074 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:31:09,074 - 33715-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:31:09,075 - 33715-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数1
+2022-06-29 18:31:09,093 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:31:09,874 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:31:09,874 - 33715-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类103 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 18:31:09,875 - 33715-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数50
+2022-06-29 18:31:09,894 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:31:13,401 - 33715-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:16,770 - 33749-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:32:16,927 - 33749-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:18,270 - 33749-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:32:18,271 - 33749-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:32:18,271 - 33749-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数50
+2022-06-29 18:32:18,287 - 33749-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:45,471 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:32:45,624 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:46,135 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:47,503 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:32:47,504 - 33753-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:32:47,504 - 33753-MainThread - command.py[line:76] - INFO: 开始页数 2 总共页数50
+2022-06-29 18:32:47,520 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:51,090 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:57,113 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:32:59,752 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:02,336 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:08,244 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:10,548 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:13,208 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:19,041 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:21,607 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:24,175 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:30,155 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:32,804 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:35,538 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:41,383 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:44,220 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:46,981 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:53,044 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:56,664 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:33:59,469 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:05,545 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:08,373 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:11,170 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:17,030 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:19,661 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:22,442 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:28,458 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:30,745 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:33,452 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:39,239 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:41,965 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:44,844 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:50,735 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:53,300 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:34:56,016 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:03,000 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:05,769 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:08,461 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:14,008 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:16,733 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:19,011 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:24,853 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:27,535 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:30,209 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:36,466 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:39,138 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:41,508 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:47,323 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:49,900 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:52,623 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:35:58,585 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:36:00,914 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:36:01,082 - 33753-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:39:18,332 - 33814-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:39:18,519 - 33814-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:39:22,241 - 33814-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:39:23,068 - 33814-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:39:23,068 - 33814-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:39:23,068 - 33814-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 18:39:23,090 - 33814-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:39:23,175 - 33814-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/get_font_map.py[line:54] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2022-06-29 18:39:47,699 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:39:47,896 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:39:48,375 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: []
+2022-06-29 18:39:48,375 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:39:48,375 - 33822-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:39:48,375 - 33822-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:39:48,397 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:39:49,678 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:39:49,678 - 33822-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类103 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 18:39:49,678 - 33822-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 18:39:49,693 - 33822-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:38,477 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:40:38,677 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:38,755 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: []
+2022-06-29 18:40:38,755 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:40:38,756 - 33847-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:40:38,756 - 33847-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:40:38,769 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:39,514 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:40:39,515 - 33847-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类103 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 18:40:39,515 - 33847-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 18:40:39,523 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:43,154 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:45,504 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:48,366 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:40:59,136 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:01,924 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:04,576 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:06,921 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:09,592 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:20,796 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:23,497 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:26,178 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:28,914 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:31,634 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:42,499 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:45,136 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:47,847 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:50,497 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:52,834 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:41:53,039 - 33847-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/detail.py[line:60] - WARNING: 详情页请求被ban，程序继续运行
+2022-06-29 18:43:46,837 - 33893-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:43:47,026 - 33893-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:43:57,061 - 33893-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:43:57,062 - 33893-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:43:57,062 - 33893-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:43:57,092 - 33893-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:03,123 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:44:03,384 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:13,595 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:24,639 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:44:24,640 - 33896-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:44:24,640 - 33896-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:44:24,662 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:25,116 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:25,141 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: []
+2022-06-29 18:44:25,141 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 18:44:25,141 - 33896-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类103 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 18:44:25,142 - 33896-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:44:25,150 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:35,182 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g111r31
+2022-06-29 18:44:35,182 - 33896-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类111 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g111r31
+2022-06-29 18:44:35,183 - 33896-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:44:35,198 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:36,295 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:44:36,295 - 33896-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类117 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g117r31
+2022-06-29 18:44:36,295 - 33896-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 18:44:36,304 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:38,564 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:44:42,632 - 33896-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/search.py[line:45] - WARNING: 搜索页请求被ban，程序终止
+2022-06-29 18:53:01,179 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:53:01,376 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:53:02,795 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:53:03,727 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:53:03,728 - 33999-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:53:03,728 - 33999-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 18:53:03,751 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:53:07,143 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:53:07,410 - 33999-MainThread - /Users/shilai/code/project/my_project/dianping_spider/function/search.py[line:45] - WARNING: 搜索页请求被ban，程序终止
+2022-06-29 18:55:48,880 - 34055-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:55:49,074 - 34055-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:55:49,150 - 34055-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: []
+2022-06-29 18:55:49,151 - 34055-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:55:49,151 - 34055-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:55:49,151 - 34055-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 18:55:49,170 - 34055-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:56:22,632 - 34079-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 18:56:22,816 - 34079-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 18:56:27,847 - 34079-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 18:56:27,847 - 34079-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 18:56:27,847 - 34079-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:02:49,225 - 34118-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:02:49,424 - 34118-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 19:03:01,463 - 34118-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:84] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:03:01,463 - 34118-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:03:01,464 - 34118-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 19:03:01,494 - 34118-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 19:03:03,660 - 34118-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:81] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 19:03:03,661 - 34118-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类103 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 19:03:03,661 - 34118-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:14:01,100 - 34343-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:14:28,943 - 34367-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:14:29,130 - 34367-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 19:14:29,212 - 34367-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:87] - INFO: []
+2022-06-29 19:14:29,212 - 34367-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:91] - WARNING: 获取页数失败http://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:14:29,213 - 34367-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:14:29,213 - 34367-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数1
+2022-06-29 19:14:29,231 - 34367-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 19:14:30,772 - 34367-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:87] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 19:14:30,774 - 34367-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类103 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g103r31
+2022-06-29 19:14:30,774 - 34367-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:14:53,233 - 34371-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:14:53,422 - 34371-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/requests_utils.py[line:327] - WARNING: 使用本地ip代理池
+2022-06-29 19:14:55,566 - 34371-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_controller.py[line:87] - INFO: ['2', '3', '4', '5', '6', '7', '8', '9', '50']
+2022-06-29 19:14:55,568 - 34371-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:14:55,569 - 34371-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:16:18,874 - 34427-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:16:19,017 - 34427-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:16:19,018 - 34427-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:17:23,790 - 34464-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:17:23,961 - 34464-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:17:23,962 - 34464-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:17:52,788 - 34487-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:17:52,926 - 34487-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:17:52,926 - 34487-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:18:06,255 - 34492-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:18:06,408 - 34492-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:18:06,409 - 34492-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:19:06,480 - 34511-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:19:06,617 - 34511-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:19:06,617 - 34511-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:22:09,099 - 34572-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:22:09,278 - 34572-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:22:09,278 - 34572-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50
+2022-06-29 19:23:32,187 - 34615-MainThread - /Users/shilai/code/project/my_project/dianping_spider/utils/spider_config.py[line:82] - WARNING: 开启了电话详情模式，会降低速度并增加反爬概率
+2022-06-29 19:23:32,331 - 34615-MainThread - command.py[line:75] - INFO: 正在爬取区域 31 分类112 urlhttp://www.dianping.com/search/keyword/7/10_深圳/g112r31
+2022-06-29 19:23:32,332 - 34615-MainThread - command.py[line:76] - INFO: 开始页数 4 总共页数50

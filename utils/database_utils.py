@@ -31,7 +31,7 @@ class DataBaseUtils():
         try:
             import pymongo
             client = pymongo.MongoClient(mongo_url)
-            self.database = client['dianping']
+            self.database = client['public_comment']
             self.col = self.database['info']
 
         except:
@@ -54,7 +54,7 @@ class DataBaseUtils():
         """
         更新数据库信息
         """
-        self.col.update({'店铺id': sid}, {"$set": {"detail": 1}})
+        self.col.update({'shop_id': sid}, {"$set": {"detail": 1}})
         pass
 
     def get_no_review(self):
@@ -73,4 +73,4 @@ class DataBaseUtils():
         """
         更新数据库信息
         """
-        self.col.update({'店铺id': sid}, {"$set": {"review": 1}})
+        self.col.update({'shop_id': sid}, {"$set": {"review": 1}})

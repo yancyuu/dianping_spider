@@ -20,10 +20,8 @@
 
 """
 
-from ftplib import all_errors
 from bs4 import BeautifulSoup
-from redis import Redis
-import json
+
 from utils.cache import cache
 from utils.get_font_map import get_search_map_file
 from utils.requests_utils import requests_util
@@ -48,7 +46,7 @@ class Detail():
         if r.status_code == 403:
             r = requests_util.get_requests(url, request_type='no proxy, cookie')
             if r.status_code == 403:
-                logger.error('使用代理吧')
+                logger.error('使用代理吧小伙汁')
                 exit()
         text = r.text
         file_map = get_search_map_file(text)
@@ -68,8 +66,7 @@ class Detail():
                 'other_info': 'ban'
             }
             return return_data
-        url = 'https://www.dianping.com/shop/' + str(shop_id)
-        print(url)
+        url = 'http://www.dianping.com/shop/' + str(shop_id)
         r = requests_util.get_requests(url, request_type=request_type)
         # 给一次retry的机会，如果依然403则判断为被ban
         if r.status_code == 403:
@@ -89,11 +86,9 @@ class Detail():
         """
         # 基础信息
         main_info = html.select('.main')[0]
-
         shop_name = '-'
         review_count = '-'
-        avg_price = '-'
-        score = '-'
+        shop_id_price = '-'
         address = '-'
         phone = '-'
         other_info = '-'
@@ -115,9 +110,9 @@ class Detail():
                 except:
                     review_count = '-'
                 try:
-                    avg_price = brief_info.select('#avgPriceTitle')[0].text.strip()
+                    shop_id_price = brief_info.select('#shop_idPriceTitle')[0].text.strip()
                 except:
-                    avg_price = '-'
+                    shop_id_price = '-'
 
                 try:
                     address = main_info.find(attrs={'itemprop': 'street-address'}).text.strip()
@@ -167,7 +162,7 @@ class Detail():
             'shop_id': shop_id,
             'shop_name': shop_name,
             'review_count': review_count,
-            'mean_price': avg_price,
+            'mean_price': shop_id_price,
             'shop_address': address,
             'shop_phone': phone,
             'other_info': other_info

@@ -21,7 +21,7 @@
 """
 from utils.config import global_config, require_config
 from utils.logger import logger
-
+from redis import Redis
 
 class Config():
     """
@@ -51,7 +51,10 @@ class Config():
             self.NEED_SEARCH_PAGES = int(global_config.getRaw('detail', 'need_pages'))
         except:
             logger.error('need_pages 必须为整数')
-            exit()
+            logger.error('取redis的page值')
+            last_page = Redis().get(self.REDIS_LAST_PAGE)
+            if last_page is not None:
+                self.NEED_SEARCH_PAGES = last_page
 
         # config 的 proxy
         self.USE_PROXY = True if global_config.getRaw('proxy', 'use_proxy') == 'True' else False

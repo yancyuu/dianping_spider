@@ -51,7 +51,10 @@ class Search():
             if last_chance is True:
                 self.is_ban = True
             return self.search(search_url=search_url, request_type=request_type, last_chance=True)
-        text = r.text
+        return self.parse(r)
+    
+    def parse(self, response):
+        text = response.text
         # 获取加密文件
         file_map = get_search_map_file(text)
         # 替换加密文件
@@ -128,18 +131,18 @@ class Search():
             except:
                 comment_list = '-'
             one_step_search_res = {
-                '店铺id': shop_id,
-                '店铺名': name,
-                '评论总数': review_number,
-                '人均价格': mean_price,
-                '标签1': tag1,
-                '标签2': tag2,
-                '店铺地址': addr,
-                '详情链接': detail_url,
-                '图片链接': image_path,
-                '店铺均分': comment_list,
-                '推荐菜': recommend,
-                '店铺总分': star_point,
+                'shop_id': shop_id,
+                'shop_name': name,
+                'review_number': review_number,
+                'mean_price': mean_price,
+                'tag1': tag1,
+                'tag2': tag2,
+                'shop_address': addr,
+                'detail_url': detail_url,
+                'image_path': image_path,
+                'comment_list': comment_list,
+                'recommend': recommend,
+                'star_point': star_point,
             }
             search_res.append(one_step_search_res)
             # yield one_step_search_res
